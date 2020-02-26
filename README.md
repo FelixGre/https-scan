@@ -188,6 +188,7 @@ If an api doesn't send a status message in 20 seconds, it is assumed dead and th
 
 ## Adding a new API
 
+
 A short instruction on how to add your own API to the https-scan can be found [here](apis/example).
 
 
